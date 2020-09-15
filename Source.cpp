@@ -83,7 +83,7 @@ int main() {
 	schoolboy sh[3] = { // инициализация
 		schoolboy(1, "Rusin Nikita Alexandrovich",0),
 		schoolboy(2, "Ivanov Ivan Ivanovich",10),
-		schoolboy(3, "num 3",0),
+		schoolboy(3, "Alexander Salash Sergeevich",0),
 	};
 
 	for (i = 0; i < 3; i++) // вывод школьников после измен. пропусков
